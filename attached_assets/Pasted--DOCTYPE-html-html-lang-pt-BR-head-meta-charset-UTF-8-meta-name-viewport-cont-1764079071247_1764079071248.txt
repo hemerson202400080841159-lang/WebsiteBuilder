@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Videogames: Benefícios, Malefícios e Sustentabilidade</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f0f2f5;
+            color: #222;
+            line-height: 1.6;
+        }
+
+        header {
+            background: #2f42ff;
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        section {
+            background: white;
+            padding: 30px;
+            margin: 20px auto;
+            width: 90%;
+            max-width: 950px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #2f42ff;
+            margin-top: 0;
+        }
+
+        img {
+            width: 100%;
+            max-width: 500px;
+            border-radius: 12px;
+            margin-top: 20px;
+            display: block;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #2f42ff;
+            color: white;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Videogames: Benefícios, Malefícios e Sustentabilidade</h1>
+    <p>Um olhar completo sobre como os jogos influenciam nossa vida e o planeta.</p>
+</header>
+
+<section>
+    <h2>✔ Benefícios dos Videogames</h2>
+    <p>
+        Videogames deixaram de ser apenas entretenimento e se tornaram ferramentas importantes 
+        para educação, desenvolvimento cognitivo e até para tratamento de algumas condições 
+        neurológicas. Pesquisas mostram que jogos bem aplicados podem melhorar diversas áreas 
+        do cérebro e habilidades sociais.
+    </p>
+
+    <h3>Principais benefícios:</h3>
+    <ul>
+        <li><b>Melhora da coordenação motora:</b> jogos de ação exigem reflexos, precisão e agilidade.</li>
+        <li><b>Desenvolvimento do raciocínio lógico:</b> jogos de estratégia estimulam planejamento e tomada de decisões.</li>
+        <li><b>Aprimoramento da memória:</b> muitos jogos exigem lembrar mapas, padrões e regras.</li>
+        <li><b>Alívio do estresse:</b> jogar pode ajudar a relaxar e reduzir a ansiedade.</li>
+        <li><b>Socialização online:</b> jogos multiplayer criam comunidades e fortalecem amizades.</li>
+        <li><b>Aplicações educacionais:</b> jogos são usados em escolas para ensinar matemática, história e ciências.</li>
+        <li><b>Treinamentos profissionais:</b> simuladores ajudam pilotos, médicos e militares a praticar habilidades.</li>
+    </ul>
+
+    <p>
+        Além disso, estudos indicam que jogos podem melhorar a criatividade, estimular a 
+        persistência e proporcionar experiências culturais ricas e imersivas.
+    </p>
+
+    <img src="img/beneficios.png" alt="Benefícios dos videogames">
+</section>
+
+<section>
+    <h2>⚠ Malefícios dos Videogames</h2>
+    <p>
+        Assim como qualquer tecnologia, o videogame pode trazer efeitos negativos quando usado 
+        sem moderação. Jogar demais pode prejudicar a saúde física, emocional e social, 
+        especialmente em crianças e adolescentes.
+    </p>
+
+    <h3>Principais riscos e malefícios:</h3>
+    <ul>
+        <li><b>Sedentarismo:</b> ficar longas horas sentado eleva riscos cardíacos e obesidade.</li>
+        <li><b>Problemas de visão:</b> excesso de telas causa fadiga ocular e ressecamento.</li>
+        <li><b>Distúrbios do sono:</b> jogar à noite atrapalha o ciclo natural de descanso.</li>
+        <li><b>Ansiedade e irritabilidade:</b> jogos competitivos podem gerar estresse.</li>
+        <li><b>Dependência de jogos:</b> a OMS reconhece como um transtorno real.</li>
+        <li><b>Isolamento social:</b> jogadores podem substituir interações reais pelas virtuais.</li>
+        <li><b>Queda no desempenho escolar:</b> excesso de tempo jogando reduz foco e disciplina.</li>
+    </ul>
+
+    <p>
+        O segredo é o equilíbrio: jogar pode ser muito positivo, desde que não prejudique atividades 
+        essenciais como estudo, trabalho, sono e convívio social.
+    </p>
+
+    <img src="img/maleficios.png" alt="Malefícios dos videogames">
+</section>
+
+<section>
+    <h2>🌱 Videogames e Sustentabilidade Ambiental</h2>
+    <p>
+        A indústria dos videogames, assim como todas as áreas da tecnologia, também tem impacto 
+        ambiental. O consumo de energia, produção de consoles e servidores online são fatores 
+        importantes. No entanto, o setor vem buscando soluções para reduzir danos ao meio ambiente.
+    </p>
+
+    <h3>Impactos ambientais dos videogames:</h3>
+    <ul>
+        <li><b>Alto consumo de energia:</b> consoles, PCs gamers e servidores usam muita eletricidade.</li>
+        <li><b>Resíduos eletrônicos:</b> troca constante de consoles gera lixo eletrônico.</li>
+        <li><b>Uso de plástico e metais raros:</b> demandam recursos naturais finitos.</li>
+    </ul>
+
+    <h3>Ações sustentáveis da indústria:</h3>
+    <ul>
+        <li><b>Consoles mais eficientes:</b> empresas estão reduzindo consumo energético dos aparelhos.</li>
+        <li><b>Materiais recicláveis:</b> embalagens de jogos e consoles usam menos plástico.</li>
+        <li><b>Jogos digitais:</b> reduzem necessidade de mídia física e transporte.</li>
+        <li><b>Servidores com energia limpa:</b> muitas empresas usam energia solar e eólica.</li>
+        <li><b>Apoio a ONGs ambientais:</b> iniciativas como “Playing for the Planet”.</li>
+    </ul>
+
+    <h3>Como jogadores podem ajudar?</h3>
+    <ul>
+        <li>Desligar o console/PC quando não estiver usando.</li>
+        <li>Reduzir brilho da tela para economizar energia.</li>
+        <li>Comprar jogos digitais quando possível.</li>
+        <li>Evitar trocar consoles todo ano desnecessariamente.</li>
+        <li>Participar de campanhas de reciclagem de eletrônicos.</li>
+    </ul>
+
+    <p>
+        A junção entre tecnologia e sustentabilidade é um dos maiores desafios do futuro, 
+        e o mundo dos videogames tem grande potencial para ser parte dessa mudança.
+    </p>
+
+    <img src="img/sustentabilidade.png" alt="Sustentabilidade nos videogames">
+</section>
+
+<footer>
+    Desenvolvido para fins educacionais — 2025
+</footer>
+
+</body>
+</html>
